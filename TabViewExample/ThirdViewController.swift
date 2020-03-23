@@ -16,7 +16,7 @@ class ThirdViewController: UIViewController {
 
         // Do any additional setup after loading the view.
         
-        tabBarItem.badgeValue = String(100)
+        tabBarItem.badgeValue = String(200)
     }
     
 
